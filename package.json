@@ -1,5 +1,22 @@
 {
+  "name": "ismailawawebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailawa/ismailawawebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismailawa/ismailawawebsite/issues"
+  },
+  "homepage": "https://github.com/ismailawa/ismailawawebsite#readme"
 }
